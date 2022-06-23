@@ -1,1 +1,1 @@
-about section soon to be updated
+0x05. Python - Exceptions
